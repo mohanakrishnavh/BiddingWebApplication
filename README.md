@@ -1,4 +1,21 @@
-# wpl
+TECHNOLOGIES:
+
+Front-end:
+ HTML
+ CSS
+ XML
+ Java
+ jQuery
+ JavaScript
+ JSON
+
+Back-end:
+ Single Sign-On (OAuth)
+ HTTPS
+ GZip Compression
+ Servlets
+ Memcached
+ MySQL Database
 
 The web site and web application supports the following functionalities:
 
